@@ -5,4 +5,5 @@
  <div>
     <a href="https://linktr.ee/viniciusbessega">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusbessega&show_icons=true&theme=chartreuse-dark&include_all_commits=true%count_private=true" />
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusbessega&layout-compact&theme=chartreuse-dark&langs_count=16" />
  </div>
