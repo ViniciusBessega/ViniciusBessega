@@ -1,8 +1,8 @@
 - 👋 Olá, sou @ViniciusBessega
 - 👀 Estou interessado em trabalhar com programação e desenvolvimento de softwares.
-- 🌱 Estou aprendendo atualmente PHP, ASP, JavaScript, futuramente pretende ampliar meus conhecimentos
+- 🌱 Estou aprendendo atualmente PHP, JavaScript, React, futuramente pretende ampliar meus conhecimentos
 
-<!---
-ViniciusBessega/ViniciusBessega is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <div>
+    <a href="https://linktr.ee/viniciusbessega"
+    <img height="180em" src="https://github-readme-stats.cercel.app/api?username=viniciusbessega&show_icons=true&themte=dracula&include_all_commits=true%count_private=true"/>
+ </div>
