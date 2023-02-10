@@ -1,4 +1,4 @@
-- 👋 Olá, suo @ViniciusBessega
+- 👋 Olá, sou @ViniciusBessega
 - 👀 Estou interessado em trabalhar com programação e desenvolvimento de softwares.
 - 🌱 Estou aprendendo atualmente PHP, ASP, JavaScript, futuramente pretende ampliar meus conhecimentos
 
